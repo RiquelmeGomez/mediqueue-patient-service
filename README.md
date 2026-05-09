@@ -229,8 +229,4 @@ Pruebas realizadas:
 
 ---
 
-# Autor
-
-Riquelme Gómez
-
 Proyecto MediQueue - Universidad Mariano Gálvez
